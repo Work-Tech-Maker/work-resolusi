@@ -1,0 +1,2 @@
+- mengenal apa itu git
+- perintah perintah git
